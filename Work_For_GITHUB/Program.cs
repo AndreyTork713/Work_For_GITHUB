@@ -12,6 +12,7 @@ namespace Work_For_GITHUB
         {
             Console.WriteLine("Hello World to Git");
             Console.WriteLine("Проба работы в GitHub");
+            Console.WriteLine("Изменение второе");
 
 
 
